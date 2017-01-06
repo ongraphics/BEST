@@ -1,0 +1,55 @@
+#u80
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#pamphletu322
+{
+	position: fixed;
+}
+
+#u327
+{
+	position: relative;
+}
+
+#u328
+{
+	position: absolute;
+}
+
+#u329
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u330
+{
+	border-style: none;
+	border-color: #999999;
+	background-color: transparent;
+	position: relative;
+}
+
+#u253
+{
+	position: relative;
+	background: transparent url("../images/velaki%203-u253-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u253:hover
+{
+	background: transparent url("../images/velaki%204-u253-r-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
